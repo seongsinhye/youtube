@@ -1,15 +1,25 @@
 import './App.css';
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+import Root from './routes/root';
+import Home from "./pages/Home";
+import Videos from './pages/Videos';
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Root />,
+    children : [
+      {index : true, element : <Home />},
+      {path : 'videos' , element : <Videos />}
+    ]
+  },
+]);
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-          <h1 className="text-3xl font-bold underline">
-          Hello world!
-        </h1>
-      </header>
-    </div>
-  );
+  return <RouterProvider router={router} />
 }
 
 export default App;

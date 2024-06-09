@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "eiLvY6_g2ELFnSVAx1rKsJFr5D0",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 807153,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NycOO4np74w2Ca-O__vw_TufqN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TiXGOYID2ns"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-07T13:00:07Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "🚗3화 풀버전 | 우천시 정상영업합니다 | 🚗💨지락이의 뛰뛰빵빵",
+        "description": "지락이들도 밥 먹고 양들도 밥 먹고   뛰뛰빵빵 지락이들 120살까지 012…   (ft. 영석이형) #지락이의뛰뛰빵빵 #유료광고포함 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TiXGOYID2ns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TiXGOYID2ns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TiXGOYID2ns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채널십오야",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-07T13:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dybjx7Z0EcrxJIyxOIZU8jQJzqU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aX7r4lMCyFA"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-04T09:00:04Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#뿅뿅지구오락실] 영석이 형 잡는 막내 안유진 등장ㅋㅋ 노화된(?) 제작진 일동 당황하게 만든 알잘&#39;깔딱&#39;센 사건💥",
+        "description": "tvN 레전드 끌어, 올려↗ #끌올 #뿅뿅지구오락실 #이은지 #미미 #이영지 #안유진 #뿅뿅지구오락실다시보기 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aX7r4lMCyFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aX7r4lMCyFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aX7r4lMCyFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-04T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wivwEjgy2QxR409WyaggEpnpvMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NFeMhR835ak"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-06T06:00:13Z",
+        "channelId": "UCwNVDlUgdBlmVWRPy4Nk0Dw",
+        "title": "[#뿅뿅지구오락실2] 주기적으로 봐줘야 하는 레전드 회차🎊 미미 &#39;ㅎㄴㄷ&#39; 사건부터 이영지 3개국어 기자회견까지ㅋㅋ 예능신 제대로 모신 월클오답파티",
+        "description": "뿅뿅지구오락실2 #이영지 #이은지 #미미 #안유진 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NFeMhR835ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NFeMhR835ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NFeMhR835ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "샾잉 #ing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-06T06:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2_KFi3Yx23rA5zsyVt5YYJlA5RY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GhIsbtWYT94"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-06T06:00:07Z",
+        "channelId": "UCwNVDlUgdBlmVWRPy4Nk0Dw",
+        "title": "[#뿅뿅지구오락실2] 대출금리가 오르면 왜 집값이 떨어질까요? &quot;왜 인지 아세요?ㅎㅋ&quot; 미미의 막힘없는 청산유수 답변에 호흡곤란 온 영석이 형ㅋㅋ",
+        "description": "뿅뿅지구오락실2 #이영지 #이은지 #미미 #안유진 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GhIsbtWYT94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GhIsbtWYT94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GhIsbtWYT94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "샾잉 #ing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-06T06:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ccJKka3Fw-XansC0yDBCMD6p6Ys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S_E6dLQ2wRA"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-06T09:00:13Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "노이즈 캔슬링도 뚫어버리는 이영지 목소리  #뿅뿅지구오락실",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #뿅뿅지구오락실 #EarthArcade 지구로 도망간 달나라 토끼를 잡기 위해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S_E6dLQ2wRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S_E6dLQ2wRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S_E6dLQ2wRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-06T09:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CZcNpp4AOTDjiHUpZSNTwT_hmRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RqKfnHrvP3g"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-31T13:00:08Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "🚗2화 풀버전 | 지락이들은 도착하자마자 자연인이되 | 🚗💨지락이의 뛰뛰빵빵",
+        "description": "막걸리잔에 흙이 들어가도… 좀비가 돼도… 지락이들과 함께라면 괜찮아   #지락이의뛰뛰빵빵 #유료광고포함 #eartharcade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RqKfnHrvP3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RqKfnHrvP3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RqKfnHrvP3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채널십오야",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-31T13:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xJDgU4Wc8lEVDalIOjaLzeevCWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LE0iqVrFa_M"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-06T09:00:18Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "모두를 당황시킨 박세프의 고기 한입 #뿅뿅지구오락실",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #뿅뿅지구오락실 #EarthArcade 지구로 도망간 달나라 토끼를 잡기 위해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LE0iqVrFa_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LE0iqVrFa_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LE0iqVrFa_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-06T09:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dwkMFGKTJ1IZmfxz0tyNSFK2PZ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XjPoUIN00Lo"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-20T09:00:24Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "MBTI 좋은 거냐고 물어보는 영석이형과 그걸 지켜보는 MZ #뿅뿅지구오락실",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #뿅뿅지구오락실 #EarthArcade 지구로 도망간 달나라 토끼를 잡기 위해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XjPoUIN00Lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XjPoUIN00Lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XjPoUIN00Lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-20T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HwXrBkxRrRpgHwxvnQjLAowX01g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z7Sfh5gxlkc"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T08:30:09Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "??: (웅성웅성👥) 뭐라고...? #뿅뿅지구오락실2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 겨울왕국 핀란드에서 벌어지는 지구 용사즈의 대모험 지락이들 텐션 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z7Sfh5gxlkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z7Sfh5gxlkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z7Sfh5gxlkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T08:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "umb88XgaMg0-xz45pDTMIPe5Ih8",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCZsMalq4aZbmUwMjx5p9GEA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-23T22:58:21Z",
+        "channelId": "UCZsMalq4aZbmUwMjx5p9GEA",
+        "title": "혜정",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/aqMLtdzcaXOYQG-iHPxSO80aoCTrg-EclSbRuQ3W4FJmN0IcMq2Ra90IJhDUq3P2tvg4q47m=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/aqMLtdzcaXOYQG-iHPxSO80aoCTrg-EclSbRuQ3W4FJmN0IcMq2Ra90IJhDUq3P2tvg4q47m=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/aqMLtdzcaXOYQG-iHPxSO80aoCTrg-EclSbRuQ3W4FJmN0IcMq2Ra90IJhDUq3P2tvg4q47m=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "혜정",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-23T22:58:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UeN4a0YpRsETamEMg0AOVw4InZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8rfoKQSPpuc"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T08:30:02Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "다 아는 맏언니와 알고 싶지 않은 막내 #뿅뿅지구오락실2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 겨울왕국 핀란드에서 벌어지는 지구 용사즈의 대모험 지락이들 텐션 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8rfoKQSPpuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8rfoKQSPpuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8rfoKQSPpuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T08:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GT_Ny7e4taYNEdw3i17kADWKWDA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H49Gg0i751k"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-22T10:00:16Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "입력값 출력 오류난 미미 #뿅뿅지구오락실2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #뿅뿅지구오락실2 #EarthArcade2 지구로 재 탈출한 토롱이를 잡기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H49Gg0i751k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H49Gg0i751k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H49Gg0i751k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-22T10:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W-jDJfdm652AgJAl7sk8E6MeXfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UUAEqNvrkSk"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T09:00:30Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "참고로 나오미 스콧은 여자임 #뿅뿅지구오락실",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #뿅뿅지구오락실 #EarthArcade 지구로 도망간 달나라 토끼를 잡기 위해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UUAEqNvrkSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UUAEqNvrkSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UUAEqNvrkSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T09:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tg2KgRICVaPLHrvBCNeS-gNR5fs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B0yLXWyclFc"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-11T08:00:35Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#뿅뿅지구오락실2] MZ세대 맞춤 인물 퀴즈😎💥 게임 전에 &#39;사과&#39;부터 올리고 시작할게요🍏 몸을 사리지 않는 오답에 순식간에 거리 두는 동료들😱ㅋㅋ | #티전드",
+        "description": "티전드 #뿅뿅지구오락실2 #tvN we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B0yLXWyclFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B0yLXWyclFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B0yLXWyclFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-11T08:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ag2xto3sMuxN_HaXmNPaotzXDTE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kRsdFC5bMts"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-23T09:00:37Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#뿅뿅지구오락실] 안 되는 놈은? &quot;안. 된. 다.^^&quot; MZ 어록 줄줄이 탄생 시킨 지락이들의 대환장 속담 이어말하기📣",
+        "description": "tvN 레전드 끌어, 올려↗ #끌올 #뿅뿅지구오락실 #이은지 #미미 #이영지 #안유진 #뿅뿅지구오락실다시보기 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRsdFC5bMts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRsdFC5bMts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRsdFC5bMts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-23T09:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XCsgRfFjA7ZyWX_RyZJXX5cz79Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9n2ZMo2590c"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-24T13:00:08Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "🚗1화 FULL | 벌써부터 기빨린다구요? 삐빅- 정상입니다ㅣ🚗💨지락이의 뛰뛰빵빵",
+        "description": "[출발 전 체크리스트] ✓안전벨트 착용 ✓심신안정을 위한 심호흡 ✓DT 메뉴 미리 정하기 ❌영지 조용히 시키기 #지락이의뛰뛰빵빵 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9n2ZMo2590c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9n2ZMo2590c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9n2ZMo2590c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채널십오야",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-24T13:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pRR21_ABvXHpmXlvrZYZ08a3hIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OoMQjolc8A8"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-17T08:28:42Z",
+        "channelId": "UCicKcyZVTu-ITXTIMzKj_UQ",
+        "title": "기강잡는 꼰유진 [아이브 안유진] in 지구오락실",
+        "description": "93년생 97데뷔 아이브복스 안미연 #아이브 #안유진 #꼰유진 #기강잡기 #아이브복스 #안미연 #베이비복스 #간미연 #기강 #IVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OoMQjolc8A8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OoMQjolc8A8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OoMQjolc8A8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "리즈 시절 LIZ TIMES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-17T08:28:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aL5KiKYHtV1wYRaIiFV2I8ndz6M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zWlkVTvbz0U"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-15T08:30:16Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "미미 민주당 새누리당 그리고..",
+        "description": "겨울왕국 핀란드에서 벌어지는 지구 용사즈의 대모험 지락이들 텐션 끌어올리는 리더 #이은지 논스톱, 노필터! 예능 탐험가 #미미 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zWlkVTvbz0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zWlkVTvbz0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zWlkVTvbz0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-15T08:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hDSjyfiZogZRMCll4mVdNANZ4DQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kLAkr1penF4"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-30T09:00:22Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "이 영상을 본 당신은 이미 막국수를 시키고 있다 #뿅뿅지구오락실",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #뿅뿅지구오락실 #EarthArcade 지구로 도망간 달나라 토끼를 잡기 위해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kLAkr1penF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kLAkr1penF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kLAkr1penF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-30T09:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6FgGyWnMAtpgxue7cpQoZeZYhlQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sE_toO2f5tM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-22T10:00:38Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "강력한 토루크 막토 #뿅뿅지구오락실2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #뿅뿅지구오락실2 #EarthArcade2 지구로 재 탈출한 토롱이를 잡기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sE_toO2f5tM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sE_toO2f5tM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sE_toO2f5tM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-22T10:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YD5zk3p61rBeDHLNglkxg9lJ6BY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dgG0FyE20Dc"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-02T09:00:26Z",
+        "channelId": "UCwNVDlUgdBlmVWRPy4Nk0Dw",
+        "title": "[#뿅뿅지구오락실2] 큰 교훈을 얻었습니다. 제작진이 자라고 할 때 잘 걸;; 모두가 몽롱+예민MAX 시차 부적응한 김에 시작된💤 음악퀴즈ㅋㅋ",
+        "description": "뿅뿅지구오락실2 #이영지 #이은지 #미미 #안유진 we're :DIGGLE family.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dgG0FyE20Dc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dgG0FyE20Dc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dgG0FyE20Dc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "샾잉 #ing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-02T09:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UB8SdzUD5LdO4hPOw8eTvFhpE-4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6t6Glv79cPQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T08:30:01Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "나비족과 텔레파시 시도하는 미미 #뿅뿅지구오락실2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 겨울왕국 핀란드에서 벌어지는 지구 용사즈의 대모험 지락이들 텐션 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6t6Glv79cPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6t6Glv79cPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6t6Glv79cPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T08:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hWGA6G0-OXUrm8DqmTMsbIDOQUw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2wJqD7KVgD8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-17T01:55:15Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "모두에게 적당히 공평하리라…🕊 #뿅뿅지구오락실2 EP.1",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #뿅뿅지구오락실2 #EarthArcade2 지구로 재 탈출한 토롱이를 잡기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2wJqD7KVgD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2wJqD7KVgD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2wJqD7KVgD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-17T01:55:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5M5hByoO8zBlHrLLXHwFrn35XtE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c6rsf2f5K3Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-17T04:00:24Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#뿅뿅지구오락실2] 하는 말 한 마디 한 마디가 💣시한폭탄💣 뿅지오 레전드 릴레이 상식 퀴즈 (라고 쓰고 아무 말 대잔치라고 읽는다^^👍) n번째 복습해도 웃김ㅋㅋㅋ",
+        "description": "tvN 레전드 끌어, 올려↗ #끌올 #뿅뿅지구오락실2 #안유진 #이은지 #이영지 #미미 #뿅뿅지구오락실2다시보기 we're :DIGGLE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c6rsf2f5K3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c6rsf2f5K3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c6rsf2f5K3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-17T04:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ur_414CXV5WOjA9l8_EUq2mRTAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rSSIAYGo400"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-04T09:45:30Z",
+        "channelId": "UC3DIXWbM_P9CJn2FUm4H98w",
+        "title": "멘탈 나간 안유진 오답 모음 ㅋㅋㅋ",
+        "description": "아이브#안유진#shorts#지구오락실#이은지#미미#이영.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rSSIAYGo400/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rSSIAYGo400/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rSSIAYGo400/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "짱원영",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-04T09:45:30Z"
+      }
+    }
+  ]
+}
